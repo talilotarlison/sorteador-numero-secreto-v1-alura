@@ -5,6 +5,8 @@
 
 ## Sorteador Numero Secreto V1
 
+### Desenvolvido no curso 1 da alura
+
 ## 🔨 Funcionalidades do projeto
 
 Sorteador de número secreto.
