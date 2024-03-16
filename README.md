@@ -3,7 +3,7 @@
 
 ![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
 
-Sorteador Numero Secreto V1
+## Sorteador Numero Secreto V1
 
 ## 🔨 Funcionalidades do projeto
 
