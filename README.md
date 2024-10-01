@@ -7,11 +7,11 @@
 
  Desenvolvido no curso 1 da alura
 
-## 🔨 Funcionalidades do projeto
+### 🔨 Funcionalidades do projeto
 
 Sorteador de número secreto.
 
-## ✔️ Técnicas e tecnologias utilizadas
+### ✔️ Técnicas e tecnologias utilizadas
 
 As técnicas e tecnologias utilizadas pra isso são:
 
@@ -20,12 +20,12 @@ As técnicas e tecnologias utilizadas pra isso são:
 - `JavaScript`
 
 
-## 📁 Acesso ao projeto
+### 📁 Acesso ao projeto
 
 Você pode [acessar o código fonte do projeto inicial](https://github.com/talilotarlison/sorteador-numero-secreto-v1-alura/) ou [baixá-lo](https://github.com/talilotarlison/sorteador-numero-secreto-v1-alura/).
 
 
-## 📚 Mais informações do curso
+### 📚 Mais informações do curso
 
 Gostou do projeto e quer conhecer mais? Você pode [acessar o curso](#) que desenvolve o projeto desde o começo!
 
